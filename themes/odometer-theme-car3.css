@@ -174,7 +174,7 @@
         50% 100%,
         color-stop(0%, #babeca),
         color-stop(40%, #babeca),
-        color-stop(60%, #101010),
+        color-stop(60%, #9e9e9e),
         color-stop(80%, #babeca),
         color-stop(100%, #babeca)
     );
@@ -182,7 +182,7 @@
         top,
         #babeca 0%,
         #babeca 40%,
-        #101010 60%,
+        #9e9e9e 60%,
         #babeca 80%,
         #babeca 100%
     );
@@ -190,7 +190,7 @@
         top,
         #babeca 0%,
         #babeca 40%,
-        #101010 60%,
+        #9e9e9e 60%,
         #babeca 80%,
         #babeca 100%
     );
@@ -198,7 +198,7 @@
         to bottom,
         #babeca 0%,
         #babeca 40%,
-        #10101060 60%,
+        #9e9e9e 60%,
         #babeca 80%,
         #babeca 100%
     );
